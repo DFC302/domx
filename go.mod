@@ -1,4 +1,4 @@
-module github.com/DFC302/domx
+module github.com/dfc302/domx
 
 go 1.23.0
 
