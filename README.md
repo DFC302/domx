@@ -5,7 +5,7 @@ Fast domain parser and extractor written in Go. Parses TLD, subdomain, root doma
 ## Install
 
 ```bash
-go install github.com/DFC302/domx@latest
+go install github.com/dfc302/domx@latest
 ```
 
 Requires Go 1.21+. The binary is placed in `$GOPATH/bin` (usually `~/go/bin`).
